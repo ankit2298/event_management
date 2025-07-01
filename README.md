@@ -36,7 +36,7 @@ A backend system built using **Flask + SQLAlchemy** that allows:
 
 ### 1. Clone or Download the Project
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ankit2298/event_management.git
 cd event_management_system
 
 
